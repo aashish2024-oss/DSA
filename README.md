@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aashish2024-oss/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aashish2024-oss/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/aashish2024-oss/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
