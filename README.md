@@ -31,6 +31,7 @@
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aashish2024-oss/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/aashish2024-oss/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/aashish2024-oss/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aashish2024-oss/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
@@ -117,6 +120,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
@@ -135,4 +139,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/aashish2024-oss/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aashish2024-oss/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
