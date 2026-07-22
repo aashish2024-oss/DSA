@@ -16,6 +16,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/aashish2024-oss/DSA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/aashish2024-oss/DSA/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/aashish2024-oss/DSA/tree/master/0771-jewels-and-stones) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aashish2024-oss/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -104,6 +105,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aashish2024-oss/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aashish2024-oss/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
