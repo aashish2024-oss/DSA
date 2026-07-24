@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashish2024-oss/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/aashish2024-oss/DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/aashish2024-oss/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aashish2024-oss/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aashish2024-oss/DSA/tree/master/0056-merge-intervals) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aashish2024-oss/DSA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/aashish2024-oss/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aashish2024-oss/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/aashish2024-oss/DSA/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/aashish2024-oss/DSA/tree/master/0977-squares-of-a-sorted-array) |
